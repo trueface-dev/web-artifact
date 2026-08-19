@@ -7,8 +7,8 @@ Standalone native JavaScript/HTML5 SDK for integrating secure biometric liveness
 Include the CSS and script files directly in your HTML header:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/trueface-dev/web-artifact@v0.1.0/trueface-web-sdk.css">
-<script src="https://cdn.jsdelivr.net/gh/trueface-dev/web-artifact@v0.1.0/trueface-web-sdk.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/trueface-dev/web-artifact@v0.1.1/trueface-web-sdk.css">
+<script src="https://cdn.jsdelivr.net/gh/trueface-dev/web-artifact@v0.1.1/trueface-web-sdk.js"></script>
 ```
 
 ## Usage
